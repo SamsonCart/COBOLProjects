@@ -1,0 +1,1 @@
+000100       01 WS-LAST-NAME    PIC A(5) VALUE 'JIM'.
